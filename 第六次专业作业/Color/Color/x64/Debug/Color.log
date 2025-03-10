@@ -1,0 +1,5 @@
+﻿  chapter1.cpp
+  chapter2.cpp
+D:\GitHub\RM\第六次专业作业\Color\Color\chapter1.cpp(4,10): error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
+D:\GitHub\RM\第六次专业作业\Color\Color\chapter2.cpp(6,10): error C1083: 无法打开包括文件: “opencv2/opencv.hpp”: No such file or directory
+  正在生成代码...
